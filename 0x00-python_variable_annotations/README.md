@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🐍 0x00. Python - Variable Annotations
 
 ## 📘 Project Overview
@@ -52,7 +51,7 @@ Before starting, read or watch:
 def add(a: float, b: float) -> float:
     """Return the sum of two floats."""
     return a + b
-````
+
 
 **Example:**
 
