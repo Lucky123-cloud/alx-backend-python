@@ -266,9 +266,3 @@ Success: no issues found in 1 source file
 📧 [LinkedIn](https://www.linkedin.com/in/luckybaraka)
 💻 [GitHub](https://github.com/lucky123-cloud)
 
-```
-
----
-
-Would you like me to upgrade this to a **GitHub “Pro README” layout** — with badges (Python, Mypy, License), collapsible task sections (`<details>` / `<summary>`), and a clean navigation table at the top (like professional open-source repos)?
-```
